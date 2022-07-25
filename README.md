@@ -1,3 +1,3 @@
 # mi_primer_respositorio
 
-Hello World
+Console.Writeline("Hello World");
